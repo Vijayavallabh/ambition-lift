@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: failed-runs-prompt
+expected_outcome: |
+  A paste-ready prompt that turns a markdown summary into a diagnosis from raw logs with a queryable store, an outside check such as repro-then-fix reruns, the decisions the user actually needs, and GPU work bounded or left to the user's go-ahead.

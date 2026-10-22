@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: inbox-triage-recurring
+expected_outcome: |
+  Lifts the daily email summary toward what needs action, keeps sending and automation behind the user's go-ahead, adds a check against the user's real behaviour, gives a ready prompt and says what setup it needs.

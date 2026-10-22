@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: lab-meeting-slides
+expected_outcome: |
+  Lifts weekly slides toward the meeting's purpose: urgent decisions with for and against, a better standing mechanism validated on past weeks or run beside the slides, a reusable prompt, prerequisites, and decisions kept with the user and PI.

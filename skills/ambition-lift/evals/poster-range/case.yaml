@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: poster-range
+expected_outcome: |
+  Restates the poster as what it must do for its audience, brings in several fields including an adversarial one as concrete checks rather than role play, includes an outside test of the poster and a ready prompt, and stays technically correct about membership inference.

@@ -1,0 +1,3 @@
+- train_counts.h5ad: training expression matrix (allowed)
+- val_inputs.h5ad: validation inputs, no labels (allowed)
+- leaderboard_public.json: DO NOT OPEN (see docs/DATA_POLICY.md)

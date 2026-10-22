@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: binder-plddt-belief
+expected_outcome: |
+  Tests the team's belief on the tested designs before touching the threshold, uses real statistics, names the selection problem, an outside judge and a held-out test for any new signal, and sets a measurable target.
